@@ -2,7 +2,7 @@
   "name": "gba-multichain-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/",
+  "homepage": ".",
   "dependencies": {
     "@rainbow-me/rainbowkit": "^2.2.8",
     "ethers": "^6.13.0",
